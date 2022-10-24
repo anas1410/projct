@@ -1,0 +1,61 @@
+header{
+    background: url("../../img/3.jpg") center no-repeat;
+    background-size: cover;
+    width: 100%;
+    max-width: 100%;
+    text-align: left;
+    height: auto;
+    overflow: hidden;
+    padding: 25px 0px;
+}
+
+header .row{
+    margin: 50px 0px;
+}
+
+header h2 {
+    color:#4d0c1b ;
+    font-size: 55px;
+    line-height: 60px;
+    font-family: 'Tajawal', sans-serif;
+    font-weight: bold;
+    width: 80%;
+}
+header p{
+    color: #333;
+    font-family: 'Tajawal', sans-serif;
+    margin: 15px 0px ;
+}
+
+header button{
+    margin: 10px 10px 10px 10px;
+}
+
+header #button-1{
+    width: 140px;
+    height: 40px;
+    background: #a82d49;
+    color: #fff;
+    border: 1px solid #a82d49;
+    box-sizing: border-box;
+}
+
+header #button-1:hover{
+    background-color: transparent;
+    color: #a82d49 ;
+    transition: .2s ease-in-out;
+}
+
+header #button-2{
+    width: 140px;
+    height: 40px;
+    background: #fff;
+    color: black;
+    border: 0;
+    box-shadow: 0px 1px  6px -1px #444;
+    
+}
+
+header #button-2:hover{
+    border: 2px solid #4d0c1b;
+}

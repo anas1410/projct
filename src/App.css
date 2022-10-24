@@ -1,0 +1,58 @@
+/* * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #f6f6f6;
+    text-align: center;
+}
+
+body , h1 , h2 , input , button{
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+
+h1{
+    margin-bottom: 20px;
+    background-color: black;
+    color: aliceblue;
+    padding: 10px;
+}
+
+
+.form input, .form button{
+    width: 200px;
+    height: 40px;
+    border-radius: 3px;
+    margin: 3px;
+    padding: 7px;
+    border: 1px solid #333;
+    
+}
+
+button{
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.post{
+    width: 45%;
+    background-color: aliceblue;
+    border: 1px solid #333;
+    padding: 10px;
+    margin: 10px auto;
+
+}
+
+.post button{
+    width: 150px;
+    display: inline-block;
+    margin: 5px;
+} */
+
+/* a.active{
+    color: red;
+} */
